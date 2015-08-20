@@ -1,1 +1,3 @@
-My implementation of TodoMVC.  See http://addyosmani.github.com/todomvc/.
+My implementation of TodoMVC using JUST jQuery and Handlebars.js.  
+
+See http://addyosmani.github.com/todomvc/.
